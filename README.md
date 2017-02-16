@@ -1,5 +1,5 @@
 # healtCheckForLambda
-HealthCheck in Python with notification with the Next API
+HealthCheck in Python with notification with the Nexmo API
 
 You have to set up some env var :
 	NEXMO_API_KEY
