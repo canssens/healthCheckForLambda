@@ -2,13 +2,14 @@
 HealthCheck in Python with notification with the Next API
 
 You have to set up some env var :
-NEXMO_API_KEY
-NEXMO_API_SECRET
-SMS_DEST
-SMS_SENDER
-SITES
+	NEXMO_API_KEY
+	NEXMO_API_SECRET
+	SMS_DEST
+	SMS_SENDER
+	SITES
 
 My AWS Lambda Conf :
+
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: 'AWS::Serverless-2016-10-31'
 Description: status
